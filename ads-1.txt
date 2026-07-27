@@ -1,0 +1,12 @@
+# ads.txt — Authorized Digital Sellers
+# Required by most ad networks (including Adsterra and PopAds) to verify
+# that ad inventory on this domain is sold through legitimate channels.
+# This file MUST live at the domain root: https://yourdomain.com/ads.txt
+#
+# Replace the lines below with the exact entries your ad network dashboard
+# gives you after you add this site (usually found under
+# "Sites" > "Site Settings" > "ads.txt" in Adsterra/PopAds dashboards).
+#
+# Example format (do not use these values — get your real ones):
+# adsterra.com, PUBLISHER-ID, DIRECT
+# popads.net, PUBLISHER-ID, DIRECT
